@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two);
+
+body {
+	background-image:url('cartographer.png');
+	background-repeat:repeat;
+}
+
+h1 {
+	font-family: 'Lobster Two';
+    font-size: 5em;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+
+p {
+	font-family: 'Lobster Two';
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+}
+
+a:link {color: white; text-decoration:none;}      /* unvisited link */
+a:visited {color: white; text-decoration:none;}  /* visited link */
+a:hover {color: white; text-decoration:none;}  /* mouse over link */
+a:active {color: white; text-decoration:none;}  /* selected link */
